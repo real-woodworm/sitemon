@@ -4,7 +4,7 @@ repo: sitemon # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Healthpay
+  - name: Healthpay 
     url: https://www.healthpay.co.uk
   - name: Cornwall Drama
     url: https://www.cornwalldrama.co.uk
