@@ -1,7 +1,7 @@
 url: https://www.healthpay.co.uk
-status: down
-code: 500
-responseTime: 564
-lastUpdated: 2021-02-08T21:48:39.384Z
+status: up
+code: 200
+responseTime: 1688
+lastUpdated: 2021-02-08T21:55:55.350Z
 startTime: Tue Jan 12 2021 15:14:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
