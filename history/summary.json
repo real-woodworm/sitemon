@@ -4,9 +4,9 @@
     "url": "https://www.healthpay.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.healthpay.co.uk",
     "slug": "healthpay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 1985,
     "timeMonth": 1768,
     "timeYear": 1577,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-05": 0
+    }
   },
   {
     "name": "Cornwall Drama",
     "url": "https://www.cornwalldrama.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.cornwalldrama.co.uk",
     "slug": "cornwall-drama",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -34,6 +36,7 @@
     "timeMonth": 2431,
     "timeYear": 2161,
     "dailyMinutesDown": {
+      "2021-05-05": 0,
       "2021-02-04": 30,
       "2021-01-13": 81
     }
