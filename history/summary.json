@@ -22,7 +22,7 @@
     "url": "https://www.cornwalldrama.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.cornwalldrama.co.uk",
     "slug": "cornwall-drama",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 2347,
     "timeYear": 2150,
     "dailyMinutesDown": {
+      "2021-05-14": 0,
       "2021-02-04": 30,
       "2021-01-13": 81
     }
